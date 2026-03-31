@@ -49,9 +49,9 @@
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Instagram: https://instagram.com/yourprofile
-- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/sahil-malviya-1ab725317/
+- Instagram: https://instagram.com/sahiil___12
+- Email: sahilmalviya700@gmail.com
 
 ---
 
