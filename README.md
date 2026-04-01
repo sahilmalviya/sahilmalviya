@@ -2,7 +2,7 @@
 
 💻 I am a passionate Full-Stack Developer from Ahmedabad,India
 
-🎯 Currently Working On: Add your current project — e.g., MERN stack app / SaaS / portfolio
+🎯 Currently Working On: personal and live projects including portfolio websites and full-stack applications using modern technologies like Next.js, React.js, and Node.js.
 
 🌱 Currently Learning: TypeScript, Next.js, Python
 
