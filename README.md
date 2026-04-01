@@ -8,7 +8,7 @@
 
 👯 Looking to collaborate on: [Projects or domains]  
 
-👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at: [Under development]
 
 💬 Ask Me About: JavaScript, React, Node.js, APIs  
 
