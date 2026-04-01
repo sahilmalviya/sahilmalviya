@@ -6,7 +6,7 @@
 
 🌱 Currently Learning: TypeScript, Next.js, Python
 
-👯 Looking to collaborate on: [Projects or domains]  
+👯 Looking to collaborate on: Full-stack web applications, open-source projects, and startup ideas  
 
 👨‍💻 All of my projects are available at: [Under development]
 
