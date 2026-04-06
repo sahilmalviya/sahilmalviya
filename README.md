@@ -8,7 +8,7 @@
 
 👯 Looking to collaborate on: Full-stack web applications, open-source projects, and startup ideas  
 
-👨‍💻 All of my projects are available at: [Under development]
+👨‍💻 All of my projects are available at: https://github.com/sahilmalviya 
 
 💬 Ask Me About: JavaScript, React, Node.js, APIs  
 
